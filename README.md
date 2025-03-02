@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraft) ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU3_GuRoTech.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 02/03/2025
 
 Proyecto: 
 
