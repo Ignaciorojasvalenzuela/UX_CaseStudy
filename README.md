@@ -75,18 +75,14 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 
 ## 🧠 Apartado d) Autoevaluación y reflexión
 
-A través de este caso de estudio he podido aplicar gran parte de lo trabajado en las prácticas: análisis heurísticos, prototipado, arquitectura de la información y diseño centrado en el usuario.
+A lo largo de las distintas prácticas de esta asignatura he tenido la oportunidad de trabajar de forma muy completa todas las fases del diseño centrado en el usuario: desde el análisis de accesibilidad y usabilidad en sitios reales, hasta la construcción de wireframes y prototipos interactivos en Figma. Esta experiencia ha sido clave para poder abordar ahora un caso más realista como el de Granada Film Commission.
 
-📄 [Ver autoevaluación en PDF](./P5/autoevaluacion.pdf)
+En este caso final he aplicado directamente conceptos que ya había trabajado en las prácticas, como el análisis heurístico, la arquitectura de la información o el diseño de experiencias adaptadas al usuario. Por ejemplo, al evaluar la web de Granada Filmin he utilizado una plantilla de revisión de usabilidad similar a la que usamos anteriormente, y me he apoyado en criterios objetivos como las leyes de UX o las directrices WCAG.
 
-📸 Vista previa:
+También he puesto en práctica herramientas como el Scope Canvas, que ya había usado en el rediseño de Kerarqueo, pero esta vez adaptándolo a un contexto de turismo cultural, lo cual me ha permitido experimentar cómo se pueden adaptar las mismas metodologías a sectores totalmente distintos.
 
-![Autoevaluación](./P5/autoevaluacion.png)
+Lo que sí echo en falta es haber realizado más validaciones con usuarios reales durante las prácticas. En el caso de Granada CineRuta, me habría gustado poder aplicar técnicas como test A/B, mapas de calor o entrevistas semiestructuradas para validar con más rigor algunas decisiones de diseño. También me hubiera gustado experimentar con desarrollo básico de una app funcional (aunque fuera solo en baja fidelidad) para comprobar hasta qué punto mis diseños son viables técnicamente.
 
-> Me hubiera gustado haber incluido validaciones con usuarios reales o entrevistas en profundidad.  
-> Aun así, me siento mucho más preparado para abordar proyectos UX reales.
+En resumen, siento que las prácticas me han preparado bastante bien para enfrentarme a este reto, y que este caso final me ha servido para consolidar lo aprendido y ver cómo se traslada a contextos reales. Aun así, me llevo la sensación de que siempre hay margen para profundizar más en validación con usuarios y testing funcional.
 
----
-
-## 📂 Estructura de carpeta `P5/`
 
