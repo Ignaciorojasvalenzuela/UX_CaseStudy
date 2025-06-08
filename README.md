@@ -1,16 +1,27 @@
 # DIU25  
 **Trabajo Final - Diseño de Interfaces de Usuario**  
 **Tema: Turismo Cinematográfico - Granada Film Commission**
-
-Grupo: **DIU3.OSCUROS**  
+  
 Curso: 2024/25  
 
 Miembros:
-- 👤 Ignacio Rojas Valenzuela [:octocat:](https://github.com/tuusuario)
+- 👤 Ignacio Rojas Valenzuela
 
 > Este repositorio contiene el trabajo individual del Caso de Estudio propuesto en la evaluación final de DIU. A través de un enfoque basado en UX/UI, se ha trabajado sobre la web real de Granada Film Commission para proponer una solución centrada en el usuario con aplicación al turismo cultural local.
+>
+> Los archivos relacionados se encuentran en la carpeta "P5"
 
 ---
+
+## 📄 Parte I: Experiencia UX
+
+La primera parte del trabajo final de DIU, que recoge una reflexión detallada sobre mi experiencia en diseño de interfaces, usabilidad y metodologías UX aplicadas durante el curso, está recogida en el siguiente documento:
+
+📄 [Ver Parte I - Documentación en PDF](./P5/IgnacioRojas_documentacion.pdf)
+
+
+## 🧪 Parte II: Caso práctico UX – Granada Film Commission
+
 
 ## 🧭 Apartado a) Análisis de usabilidad de Granada Filmin
 
