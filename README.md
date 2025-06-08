@@ -16,10 +16,10 @@ Miembros:
 
 Se ha evaluado exhaustivamente la web oficial de [Granada Film Commission](https://filmgranada.com/), aplicando una plantilla estructurada de revisión de usabilidad.
 
-📄 Documento base usado: `archivos/Usability-review.xlsx`  
+📄 Documento base usado: `P5/Usability-review.xlsx`  
 📸 Vista previa:
 
-![Usability Review](archivos/Usability-review.png)
+![Usability Review](P5/Usability-review.png)
 
 **Valoración estimada:** 58/100  
 > La web tiene un diseño atractivo, pero muestra problemas en navegación, adaptabilidad móvil, y accesibilidad básica (etiquetas, contraste, jerarquía).
@@ -33,7 +33,7 @@ Se ha realizado una comparación objetiva entre la web de Granada y la de [Valè
 📄 Tabla comparativa en estilo Figma:  
 📸 Vista previa:
 
-![Comparativa UX](archivos/Comparativa_Granada_Valencia.png)
+![Comparativa UX](P5/Comparativa_Granada_Valencia.png)
 
 > Valencia Film Office destaca por su navegación clara, mejor jerarquía visual y mejor adaptación móvil. Granada Filmin resulta más impactante visualmente pero menos estructurada.
 
@@ -45,10 +45,10 @@ Se ha realizado una comparación objetiva entre la web de Granada y la de [Valè
 
 Se ha desarrollado una propuesta UX completa usando la herramienta Scope Canvas para definir las necesidades, acciones, objetivos y métricas de una app orientada a turismo cinematográfico local.
 
-📄 Documento: `archivos/Scope_Canvas_GranadaCineRuta.png`  
+📄 Documento: `P5/Scope_Canvas_GranadaCineRuta.png`  
 📸 Vista previa:
 
-![Scope Canvas CineRuta](archivos/Scope_Canvas_GranadaCineRuta.png)
+![Scope Canvas CineRuta](P5/Scope_Canvas_GranadaCineRuta.png)
 
 ---
 
@@ -59,10 +59,10 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 2. Pantalla de Ruta/Localización  
 3. Pantalla de Reseña
 
-📄 Documento: `archivos/finalbocetos.png`  
+📄 Documento: `P5/finalbocetos.png`  
 📸 Vista previa:
 
-![Boceto App](archivos/finalbocetos.png)
+![Boceto App](P5/finalbocetos.png)
 
 > La app permite explorar rutas de cine, consultar películas rodadas, leer y publicar reseñas, y seguir itinerarios temáticos por localizaciones reales.
 
@@ -72,10 +72,10 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 
 A través de este caso de estudio he podido aplicar gran parte de lo trabajado en las prácticas: análisis heurísticos, prototipado, arquitectura de la información y diseño centrado en el usuario.
 
-📄 Documento: `archivos/autoevaluacion.pdf`  
+📄 Documento: `P5/autoevaluacion.pdf`  
 📸 Vista previa:
 
-![Autoevaluación](archivos/autoevaluacion.png)
+![Autoevaluación](P5/autoevaluacion.png)
 
 > Me hubiera gustado haber incluido validaciones con usuarios reales o entrevistas en profundidad. Aun así, me siento mucho más preparado para abordar proyectos UX reales.
 
