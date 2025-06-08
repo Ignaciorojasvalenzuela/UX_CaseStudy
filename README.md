@@ -16,10 +16,11 @@ Miembros:
 
 Se ha evaluado exhaustivamente la web oficial de [Granada Film Commission](https://filmgranada.com/), aplicando una plantilla estructurada de revisión de usabilidad.
 
-📄 Documento base usado: `P5/Usability-review.xls`  
+📄 [Ver documento en Excel](./P5/Usability-review.xls)
+
 📸 Vista previa:
 
-![Usability Review](P5/Usability-review.png)
+![Usability Review](./P5/Usability-review.png)
 
 **Valoración estimada:** 58/100  
 > La web tiene un diseño atractivo, pero muestra problemas en navegación, adaptabilidad móvil, y accesibilidad básica (etiquetas, contraste, jerarquía).
@@ -30,12 +31,14 @@ Se ha evaluado exhaustivamente la web oficial de [Granada Film Commission](https
 
 Se ha realizado una comparación objetiva entre la web de Granada y la de [València Film Office](https://valenciafilmoffice.org/), analizando estructura, diseño, navegación y accesibilidad.
 
-📄 Documento: `P5/Competitor Analysis [DIU23] (Copy) (1).pdf`  
+📄 [Ver Competitor Analysis en PDF](./P5/Competitor%20Analysis%20%5BDIU23%5D%20(Copy)%20(1).pdf)
+
 📸 Vista previa:
 
-![Comparativa UX](P5/Competitor Analysis [DIU23] (Copy) (1)-1.png)
+![Comparativa UX](./P5/Competitor%20Analysis%20%5BDIU23%5D%20(Copy)%20(1)-1.png)
 
-> Valencia Film Office destaca por su navegación clara, mejor jerarquía visual y mejor adaptación móvil. Granada Filmin resulta más impactante visualmente pero menos estructurada.
+> Valencia Film Office destaca por su navegación clara, mejor jerarquía visual y mejor adaptación móvil.  
+> Granada Filmin resulta más impactante visualmente pero menos estructurada.
 
 ---
 
@@ -45,10 +48,11 @@ Se ha realizado una comparación objetiva entre la web de Granada y la de [Valè
 
 Se ha desarrollado una propuesta UX completa usando la herramienta Scope Canvas para definir las necesidades, acciones, objetivos y métricas de una app orientada a turismo cinematográfico local.
 
-📄 Documento: `P5/Scope Canvas (Community) (Copy).pdf`  
+📄 [Ver Scope Canvas en PDF](./P5/Scope%20Canvas%20(Community)%20(Copy).pdf)
+
 📸 Vista previa:
 
-![Scope Canvas CineRuta](P5/Scope Canvas (Community) (Copy)-1.png)
+![Scope Canvas CineRuta](./P5/Scope%20Canvas%20(Community)%20(Copy)-1.png)
 
 ---
 
@@ -59,10 +63,11 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 2. Pantalla de Ruta/Localización  
 3. Pantalla de Reseña
 
-📄 Documento: `P5/finalbocetos.png`  
+📄 [Ver bocetos en PNG](./P5/finalbocetos.png)
+
 📸 Vista previa:
 
-![Boceto App](P5/finalbocetos.png)
+![Boceto App](./P5/finalbocetos.png)
 
 > La app permite explorar rutas de cine, consultar películas rodadas, leer y publicar reseñas, y seguir itinerarios temáticos por localizaciones reales.
 
@@ -72,12 +77,14 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 
 A través de este caso de estudio he podido aplicar gran parte de lo trabajado en las prácticas: análisis heurísticos, prototipado, arquitectura de la información y diseño centrado en el usuario.
 
-📄 Documento: `P5/autoevaluacion.pdf`  
+📄 [Ver autoevaluación en PDF](./P5/autoevaluacion.pdf)
+
 📸 Vista previa:
 
-![Autoevaluación](P5/autoevaluacion.png)
+![Autoevaluación](./P5/autoevaluacion.png)
 
-> Me hubiera gustado haber incluido validaciones con usuarios reales o entrevistas en profundidad. Aun así, me siento mucho más preparado para abordar proyectos UX reales.
+> Me hubiera gustado haber incluido validaciones con usuarios reales o entrevistas en profundidad.  
+> Aun así, me siento mucho más preparado para abordar proyectos UX reales.
 
 ---
 
