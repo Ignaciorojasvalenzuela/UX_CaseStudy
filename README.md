@@ -16,7 +16,7 @@ Miembros:
 
 Se ha evaluado exhaustivamente la web oficial de [Granada Film Commission](https://filmgranada.com/), aplicando una plantilla estructurada de revisión de usabilidad.
 
-📄 Documento base usado: `P5/Usability-review.xlsx`  
+📄 Documento base usado: `P5/Usability-review.xls`  
 📸 Vista previa:
 
 ![Usability Review](P5/Usability-review.png)
@@ -30,10 +30,10 @@ Se ha evaluado exhaustivamente la web oficial de [Granada Film Commission](https
 
 Se ha realizado una comparación objetiva entre la web de Granada y la de [València Film Office](https://valenciafilmoffice.org/), analizando estructura, diseño, navegación y accesibilidad.
 
-📄 Tabla comparativa en estilo Figma:  
+📄 Documento: `P5/Competitor Analysis [DIU23] (Copy) (1).pdf`  
 📸 Vista previa:
 
-![Comparativa UX](P5/Comparativa_Granada_Valencia.png)
+![Comparativa UX](P5/Competitor Analysis [DIU23] (Copy) (1)-1.png)
 
 > Valencia Film Office destaca por su navegación clara, mejor jerarquía visual y mejor adaptación móvil. Granada Filmin resulta más impactante visualmente pero menos estructurada.
 
@@ -45,10 +45,10 @@ Se ha realizado una comparación objetiva entre la web de Granada y la de [Valè
 
 Se ha desarrollado una propuesta UX completa usando la herramienta Scope Canvas para definir las necesidades, acciones, objetivos y métricas de una app orientada a turismo cinematográfico local.
 
-📄 Documento: `P5/Scope_Canvas_GranadaCineRuta.png`  
+📄 Documento: `P5/Scope Canvas (Community) (Copy).pdf`  
 📸 Vista previa:
 
-![Scope Canvas CineRuta](P5/Scope_Canvas_GranadaCineRuta.png)
+![Scope Canvas CineRuta](P5/Scope Canvas (Community) (Copy)-1.png)
 
 ---
 
@@ -81,5 +81,5 @@ A través de este caso de estudio he podido aplicar gran parte de lo trabajado e
 
 ---
 
-## 📂 Estructura de carpetas
+## 📂 Estructura de carpeta `P5/`
 
