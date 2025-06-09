@@ -74,11 +74,11 @@ Se han definido 3 pantallas clave para el prototipo de la App **“Granada CineR
 2. Pantalla de Ruta/Localización  
 3. Pantalla de Reseña
 
-📄 [Ver bocetos en PNG](./P5/finalbocetos.png)
+📄 [Ver bocetos en PNG](./P5/5924836818975573882.jpg)
 
 📸 Vista previa:
 
-![Boceto App](./P5/finalbocetos.png)
+![Boceto App](./P5/5924836818975573882.jpg)
 
 > La app permite explorar rutas de cine, consultar películas rodadas, leer y publicar reseñas, y seguir itinerarios temáticos por localizaciones reales.
 
